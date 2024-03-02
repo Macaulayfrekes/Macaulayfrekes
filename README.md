@@ -5,6 +5,6 @@
 -->
 
 - 🔭 I’m currently working on no projects at the moment. I am an enthusiast on this platform seeking for exploration
-- 🌱 I’m currently learning Web/Mobile Development and CyberSecurity Essentials
+- 🌱 I’m currently learning AI/ML Applications in the Tech Space and CyberSecurity Essentials
 - 📫 How to reach me: macaulayfrekes@gmail.com
 - 😄 Pronouns: He / Him / His
